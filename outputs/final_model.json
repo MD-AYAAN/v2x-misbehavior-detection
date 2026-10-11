@@ -1,0 +1,11 @@
+{
+  "chosen": {
+    "n_estimators": 10,
+    "max_depth": 15
+  },
+  "accuracy": 0.96254,
+  "f1": 0.9458,
+  "size_mb": 0.59,
+  "p99_ms_isolated": 1.758,
+  "note": "max_depth=15 improves accuracy over unconstrained (0.95892) while reducing model size 50x (29.87 MB -> 0.59 MB uncompressed equivalent 155 MB). Unconstrained trees overfit."
+}

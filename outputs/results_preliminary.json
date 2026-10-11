@@ -1,0 +1,30 @@
+{
+  "accuracy": 0.9581,
+  "precision": 0.9813,
+  "recall": 0.9019,
+  "f1": 0.9399,
+  "latency_ms": {
+    "n_jobs_-1": {
+      "median": 37.776,
+      "p99": 49.29
+    },
+    "n_jobs_1": {
+      "median": 6.773,
+      "p99": 10.695
+    },
+    "optimised": {
+      "median": 6.459,
+      "p99": 9.515
+    },
+    "batched_per_msg": 0.0423
+  },
+  "feature_importance": {
+    "dt": 0.12881977027096156,
+    "dist": 0.16203214480765288,
+    "claimed_spd": 0.06130432730698962,
+    "implied_spd": 0.15854064260534825,
+    "spd_mismatch": 0.40608806673024483,
+    "acl_mag": 0.026650454022169014,
+    "head_mismatch": 0.05656459425663379
+  }
+}

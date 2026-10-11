@@ -1,0 +1,44 @@
+[
+  {
+    "max_depth": 6,
+    "accuracy": 0.95983,
+    "f1": 0.94178,
+    "size_mb": 0.02,
+    "p99_ms": 1.584
+  },
+  {
+    "max_depth": 8,
+    "accuracy": 0.96118,
+    "f1": 0.94373,
+    "size_mb": 0.07,
+    "p99_ms": 1.487
+  },
+  {
+    "max_depth": 10,
+    "accuracy": 0.96162,
+    "f1": 0.94438,
+    "size_mb": 0.14,
+    "p99_ms": 1.963
+  },
+  {
+    "max_depth": 12,
+    "accuracy": 0.96201,
+    "f1": 0.94498,
+    "size_mb": 0.25,
+    "p99_ms": 1.688
+  },
+  {
+    "max_depth": 15,
+    "accuracy": 0.96254,
+    "f1": 0.9458,
+    "size_mb": 0.59,
+    "p99_ms": 1.758
+  },
+  {
+    "max_depth": null,
+    "accuracy": 0.95892,
+    "f1": 0.94107,
+    "size_mb": 29.87,
+    "p99_ms": 1.407
+  }
+]
